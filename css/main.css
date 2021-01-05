@@ -15,19 +15,28 @@ background-color: hsl(185, 75%, 39%)
 }
 
 #name {
+  font-size: 18px;
 }
 
 #age {
+  font-size: 18px;
 }
 
 #city {
+  font-size: 18px;
 }
 
 #info {
 }
 
 .bold {
+  font-family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans);
+  font-weight: bold;
 }
 
 .grey {
+  font-family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans);
+  font-weight: 400;
+  color: hsl(0, 0%, 59%);
+  
 }
